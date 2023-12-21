@@ -1,0 +1,21 @@
+.d-errors{
+    display: table;
+    width: 100%;
+}
+.d-error{
+    border: 1px solid #ff1232 !important;
+}
+
+.d-success{
+    border: 1px solid #00bf30 !important;
+}
+
+.d-errors .input-error{
+    color: red;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 9px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.2em;
+
+}
